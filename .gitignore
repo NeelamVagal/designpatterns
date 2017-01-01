@@ -1,0 +1,13 @@
+target/
+.classpath
+.settings/
+.project
+bin/
+classes/
+*.class
+Thumbs.db
+.metadata
+styles.css
+.idea/
+*.iml
+nb-configuration.xml
